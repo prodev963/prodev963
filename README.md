@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prodev963
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning anything
 - 📫 Email: devacc963@gmail.com
 
 <!---
